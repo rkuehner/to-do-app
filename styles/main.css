@@ -1,0 +1,25 @@
+header {
+   background: url(../images/pencils.jpg) center / cover;
+   height: 25vh;
+   justify-content: center;
+   text-align: center;
+ }
+
+ h1 {
+   color: darkblue;
+   font-weight: bold;
+ }
+
+#addToDoForm{
+   margin: 50px 50px 0px 50px;
+ }
+
+ ul {
+  list-style-type: none;
+  padding-left: 50px;
+}
+
+label {
+  font-size: 1.rem;
+  font-weight: bold;
+}
